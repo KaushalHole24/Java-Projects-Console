@@ -1,3 +1,4 @@
+package QuizGame;
 import java.util.Scanner;
 
 public class QuestionService {
